@@ -1,4 +1,0 @@
-; https://www.cc65.org/doc/ca65-11.html
-; https://www.cc65.org/doc/ca65.html#toc11
-.ORG $1000
-    lda #10
