@@ -8,6 +8,7 @@
 ; https://dasm-assembler.github.io
 ; http://www.6502.org/tutorials/6502opcodes.html#LDA
 
+; https://pickledlight.blogspot.com/p/commodore-64-guides.html?m=1
 
 
     processor 6502
